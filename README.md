@@ -52,11 +52,15 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 # So far what has been achieved and further improvements?
 
-All requirements above has been achieved.
+All requirements above has been achieved in code however, some icon links are not displaying on the application (could be overwritten by styling).
 
-# Challeneges?
+# Challeneges
 
 Try to understand how to add my previous cv template into react components. There were many errors due to the various elements in the components. 
+
+# Future development
+
+This is a foundation of my react portfolio and will work to improve up on it. I have used my previous portfolio and integrated it with react with the use of css. Would like to use different styling framing and add more interactive pages.
 
 # To access Github Repository 
 
