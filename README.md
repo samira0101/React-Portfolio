@@ -64,7 +64,7 @@ Try to understand how to add my previous cv template into react components. Ther
 
 # Deployement link
 
-1. 
+1. https://samira0101.github.io/React-Portfolio/
 
 # Refrences
 1. https://www.w3schools.com/tags/tag_meta.asp
