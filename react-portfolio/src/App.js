@@ -12,10 +12,10 @@ import Footer from "./components/footer"
 function App() {
   return (
     <main>
-      <Nav id="li"/>
+      <Nav id="mySidenav"></Nav>
        <Header/>
       <About id="about"></About>
-      <Projects/>
+      <Projects id="projects"></Projects>
       <Contact/>
       <Footer/>
      
