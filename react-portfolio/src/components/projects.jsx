@@ -1,7 +1,7 @@
 import React from "react";
 import EventsImage from "../assets/images/screencapture-Homepage.png";
 import PassGen from "../assets/images/screencapture-PasswordGenerator.png";
-import ThirdPartyApi from "../assets/images/screencapture-Third-Party-API.png";
+import BackCover from "../assets/images/screencapture-Back-Cover.png";
 
 
 function Projects () {
@@ -9,11 +9,11 @@ function Projects () {
         <section id="projects">
         <div className="project-container">
             <h2>Projects</h2>
-            <p className="content">Below you will find github links to one collaborative project with other students in the class called Event Masters Uk. Plus two class assignments a password generator and the first assignment given at the start of the course. </p>
+            <p className="content">Below you will find github links to two collaborative projects called Event Masters Uk and The Back Cover. Plus a class assignment called password Generator.</p>
             <div className="images-container">
                 <div><img src={EventsImage} alt="Event-Masters-UK homepage"/>
                     <h2> Project 1</h2>
-                    <p> This was the very first project that I worked on collaboratively with two other students. We have just finished Phase one which was the front content of web development and created a platform called Event-Masters-uk. </p>
+                    <p> an interactive application with data retreived from two third party open APIs on the browser. It allows for the user to search events for a city within the UK restricted by location.</p>
                     <a href="https://github.com/samira0101/Event-Masters-UK"> Link to project 1 </a>
                 </div> 
                 <div><img src={PassGen} alt="password generator homepage"/>
@@ -21,10 +21,10 @@ function Projects () {
                     <p> This was my very first assignment in which required javascript functions. </p>
                     <a href="https://github.com/samira0101/passwordGenerator"> Link to password generator </a>
                 </div> 
-                <div><img src={ThirdPartyApi} alt="calender homepage"/>
-                        <h2> Calender </h2>
-                        <p>  A simple calender with given pre-code but added feutures such as Jquery and JavaScript to make it interactive.</p>
-                        <a href="https://github.com/samira0101/Third-Party-APIs-Calender"> Link to calender </a>
+                <div><img src={BackCover} alt="BackCover homepage"/>
+                        <h2> Project 3 </h2>
+                        <p> A platform to use as a virtual back cover, where the user cantrack the books they want to read and see what other people think about</p>
+                        <a href="https://github.com/LanguageBytes/The-Back-Cover"> Link to The Back Cover </a>
                 </div>
             </div>
         </div>
