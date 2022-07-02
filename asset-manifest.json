@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.6e5b1b8e.css",
-    "main.js": "/React-Portfolio/static/js/main.da4632ea.js",
+    "main.css": "/React-Portfolio/static/css/main.1cbdbb86.css",
+    "main.js": "/React-Portfolio/static/js/main.f5cc548c.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/screencapture-Homepage.png": "/React-Portfolio/static/media/screencapture-Homepage.021f4e178ab82194c634.png",
+    "static/media/screencapture-Back-Cover.png": "/React-Portfolio/static/media/screencapture-Back-Cover.ecbf22472d419855b47a.png",
     "static/media/screencapture-Samira.png": "/React-Portfolio/static/media/screencapture-Samira.3711c0473294925158fe.png",
-    "static/media/screencapture-Third-Party-API.png": "/React-Portfolio/static/media/screencapture-Third-Party-API.396923616f86ece3904d.png",
     "static/media/screencapture-PasswordGenerator.png": "/React-Portfolio/static/media/screencapture-PasswordGenerator.bce943e3d2908a4bba38.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.6e5b1b8e.css.map": "/React-Portfolio/static/css/main.6e5b1b8e.css.map",
-    "main.da4632ea.js.map": "/React-Portfolio/static/js/main.da4632ea.js.map",
+    "main.1cbdbb86.css.map": "/React-Portfolio/static/css/main.1cbdbb86.css.map",
+    "main.f5cc548c.js.map": "/React-Portfolio/static/js/main.f5cc548c.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e5b1b8e.css",
-    "static/js/main.da4632ea.js"
+    "static/css/main.1cbdbb86.css",
+    "static/js/main.f5cc548c.js"
   ]
 }
