@@ -4,13 +4,12 @@ function Nav () {
     return (
     
 
-<nav className="sidenav">
-<ul id="mySidenav">
-  <li><a href="#about">About</a></li>
-  <li><a href="#projects">Projects</a></li>
-  <li><a href="#contact">Contact</a></li>
-</ul>
-</nav> 
+      <nav id="mySidenav"
+      className="mySidenav">
+      <a href="#about" id="About">About</a>
+      <a href="#projects" id="Projects">Projects</a>
+      <a href="#contact" id="Contact">Contact</a>
+      </nav>
     )
 }
 
